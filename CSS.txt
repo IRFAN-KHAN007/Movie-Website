@@ -1,0 +1,377 @@
+/* //default CSS starts here */
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&display=swap');
+*{
+    
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+  }
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    font-family: "font-regular";
+    background-color: #fdfdfd
+}
+@font-face {
+    font-family: "font-light";
+    src: url("../fonts/Metropolis-Light.otf");
+}
+@font-face {
+    font-family: "font-regular";
+    src: url("../fonts/Metropolis-Regular.otf");
+}
+@font-face {
+    font-family: "font-medium";
+    src: url("../fonts/Metropolis-Medium.otf");
+}
+@font-face {
+    font-family: "font-bold";
+    src: url("../fonts/Metropolis-Bold.otf");
+}
+.container{
+     max-width: 1200px;
+     margin: 0 auto;
+     width: 100%;
+}
+.mini-container{
+    max-width: 800px;
+    margin: 0 auto;
+    width: 100%;
+}
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+}
+a{ text-decoration: none;}
+p {margin: 0;}
+h3{margin: 0;}
+ul {padding: 0;list-style: none;}
+/* //default CSS ends here */  
+
+.header-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.box-one {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} 
+
+.main-nav{
+     background-color: rgb(54, 57, 72);
+     padding: 15px 0px;
+}
+
+.logo img {
+    width: 120px;
+    background: none;
+    border-radius: 5px;
+}
+
+.search{
+    position: relative;
+    padding-left: 20px;
+}
+
+.search input{
+    padding: 10xp 35px;
+    width: 430px;
+    border-radius: 7px;
+    padding: 0px 24px;
+    height: 40px;
+}
+
+
+.search .icon{
+    position: absolute;
+    left: 25px;
+    top: 11px;
+
+}
+
+.search .icon .fa {
+    color:#545454 ;
+}
+
+.box-two button{
+    margin: 0px 35px;
+    background-color:rgb(248, 68, 100) ;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.box-two a{
+    color: #fff;
+}
+
+i.fa.fa-sort-desc {
+    position: relative;
+}
+
+i.fa.fa-sort-desc {
+    position: absolute;
+    top: 5%;
+    color: #fff;
+}
+.advertisment {
+    margin: 40px auto;
+}
+.bottom-header{
+    background-color:rgb(36, 37, 48);
+}
+
+
+.bottom-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bottom-flex ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bottom-flex ul a {
+    color: #fff;
+    padding: 0 10px;
+    margin: 0px 11px;
+}
+
+.boxes {
+    display: flex;
+}
+.boxes div {
+    margin: 0 5px;
+}
+.boxes div img {
+    border-radius: 10px;
+}
+
+.boxes div p {
+    color: rgb(82, 88, 88);
+}
+
+.advertisment-two{
+    margin: 40px auto;
+}
+    
+.cardrow-one  {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+
+.cardrow-one div {
+    margin: 0px 5px;
+    
+}
+
+.cardrow-one div  img{
+border-radius: 10px;
+}
+
+.row-one h3{
+   padding: 10px 0px;
+}
+
+.banner-one  {
+    padding: 50px 0px;
+}
+
+.banner-oneimages {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-weight: 400;
+    
+}
+
+.banner-oneimages div{
+    margin: 0px 5px;
+    
+}
+
+
+.banner-oneimages div img {
+    border-radius: 10px;
+}
+.bannerOne {
+    background-color:rgb(58, 60, 85) ;
+    margin: -50px 0px;
+    padding: 15px;
+}
+
+.banner-text {
+    color: white;
+}
+
+.banner-text h3 {
+    padding: 5px 0px;
+}
+
+.banner-text p {
+    padding: 10px 0px;
+}
+
+.banner-oneimages h3 p {
+  color: white;
+}
+
+.mainbox .first h2 {
+    padding: 50px 0px;
+}
+
+.mainbox .second {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    position: relative;
+}
+
+.mainbox .second p {
+    position: absolute;
+    right: 10px;
+    top: -94px;
+    color: rgb(204, 56, 56);
+}
+
+.mainbox .second .fa {
+    position: absolute;
+    top: -94px;
+    color: rgb(204, 56, 56);
+}
+
+.events-images {
+    display: flex;
+    justify-content: space-between;
+}
+
+.events-images div {
+    margin: 0px 5px;
+}
+
+.events-images img {
+    border-radius: 10px;
+}
+
+.events-images {
+    margin: -10px 0xp;
+}
+
+.third {
+    margin: -15px 0px;
+    padding: 23px 0px;
+}
+
+.third .events-images p {
+    color: rgb(82, 88, 88);
+}
+
+.third p {
+    padding: 3px 0px;
+    /* margin: 2px 0px; */
+}
+.third h3{
+    margin: 10px 0px;
+}
+
+.footer-main {
+    display: flex;
+    align-items: center;
+     
+    color:white;
+
+}
+.footer-main button{
+    margin: 0px 80px;
+    background-color:rgb(248, 68, 100) ;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: inherit;
+    cursor: pointer;
+    
+}
+.footer-main svg {
+  margin-right:  10px;
+   
+}
+.footer-main p{
+    margin: 0px 30px;
+}
+.main-footer {
+    background-color: rgb(54, 57, 72);
+    padding: 20px 0px;
+}
+#firstt h2 {
+    padding: 10px 0xp;
+}
+
+ .bottom-flex:hover{
+    cursor: pointer;
+   
+}
+.customer-care .fa-users{
+    font-size: 32px;
+    color: rgb(76, 79, 98);
+    margin: 5px 55px;
+    padding: 5px 0px;
+}
+.customer-care p{
+    padding: 5px 0px;
+    color: rgb(76, 79, 98);
+}
+.ticket-booking .fa-ticket{
+    font-size: 32px;
+    color: rgb(76, 79, 98);
+    margin: 5px 120px;
+    padding: 5px 0px;
+}
+.ticket-booking p{
+    padding: 5px 0px;
+    color:rgb(76, 79, 98);
+}
+.newspaper .fa-newspaper-o{
+    font-size: 32px;
+    color: rgb(76, 79, 98);
+    margin: 5px 125px;
+    padding: 5px 0px;
+}
+.newspaper p{
+    padding: 5px 0px;
+    color: rgb(76, 79, 98);
+}
+.last-footer{
+    background-color: rgb(54, 57, 72);
+    padding: 14px 0px;
+}
+.content p{
+    padding: 10px 0px;
+    color: rgb(139, 140, 158);
+    font-size: small;
+}
+.content a{
+    padding: 5px 0px;
+    color: rgb(139, 140, 158);
+    font-size: smaller;
+    
+}
+ a:hover{
+    cursor: pointer;
+    color: white;
+    transition: ease-in-out .2s;
+}
+

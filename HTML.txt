@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+   <html lang="en">
+
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="./mystyle.css">
+      <link rel="preconnect" href="https://fonts.googleapis.com"> 
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+      <script src="https://use.fontawesome.com/423c8d4733.js"></script>
+ 
+      <title>Document</title>
+   </head>
+
+   <body>
+    <header class="main-nav">
+      <div class="container">
+         <div class="header-main">
+            <div class="box-one">
+               <div class="logo">
+                  <a href="#"><img src="./images/1600x960_423020-book-my-show.jpg" alt=""></a>
+               </div>
+               <div class="search">
+                  <input type="text" placeholder="Search Movies for Events and offers" />
+                  <div class="icon"><i class="fa fa-search" aria-hidden="true"></i></div>
+               </div>
+            </div>
+            <div class="box-two">
+               <a href="#">Chennai</a>
+              <a href="#"><i class="fa fa-sort-desc" aria-hidden="true"></i></a>
+              <a href="#"><button>Sign in </button></a> 
+               <a href="#"><i class="fa fa-bars" aria-hidden="true"></i></a>
+            </div>
+         </div>
+      </div>
+   </header>
+
+   <section class="bottom-header">
+        <div class="container">
+         <div class="bottom-flex">
+            <ul>
+               <li><a href="#">Movies</a></li>
+               <li><a href="#">stream</a></li>
+               <li><a href="#">Events</a></li>
+               <li><a href="#">Plays</a></li>
+               <li><a href="#">Sports</a></li>
+               <li><a href="#">Activities</a></li>
+               <li><a href="#">Buzz</a></li>
+            </ul>
+            <ul>
+               <li><a href="#">Listyour show</a></li>
+               <li><a href="#">Corporates</a></li>
+               <li><a href="#">Offers</a></li>
+               <li><a href="#">Gift Cards</a></li>
+            </ul>
+         </div>
+        </div>
+   </section>
+
+   
+
+   </div><div class="container">
+      <div class="advertisment">
+         <a href="#"><img src="./images/icc.avif" alt=""></a>
+      </div>
+   </div>
+   
+  <div class="container">
+   <div class="advertisment">
+      <div class="boxes">
+         <div>
+            <img src="./images/Jawan.avif" alt="">
+            <h3>Jawan</h3>
+            <p>Action/Thriller</p>
+         </div>
+         <div>
+            <img src="./images/nun.avif" alt="">
+            <h3>NUN 2</h3>
+            <p>Horror/Mystery/Thriller</p>
+         </div>
+         <div>
+            <img src="./images/jailer.avif" alt="">
+            <h3>Jailer</h3>
+            <p>Action/Drama/Thriller</p>
+         </div>
+         <div>
+            <img src="./images/mr shetty .avif" alt="">
+            <h3>Miss Shetty Mr Polishetty</h3>
+            <p>Comedy/Romantic</p>
+         </div>
+         <div>
+            <img src="./images/kushi.avif" alt="">
+            <h3>Kushi</h3>
+            <p>Comedy/Drama/Romantic</p>
+         </div>
+      </div>
+   </div>
+  </div>
+
+  <div class="container">
+   <div class="advertisment-two">
+      <a href="#"><img src="./images/stream.avif" alt=""></a>
+   </div>
+</div>
+
+<div class="container">
+   <div class="row-one">
+      <h3>The Best Of Live Events</h3>
+   </div>
+   <div class="cardrow-one">
+      <div>
+         <a href="#"><img src="./images/workshop.avif" alt=""></a>
+      </div>
+      <div>
+         <a href="#"><img src="./images/kids-zone.avif" alt=""></a>
+      </div>
+      <div>
+         <a href="#"><img src="./images/comedy-shows.avif" alt=""></a>
+      </div>
+      <div>
+         <a href="#"><img src="./images/music-shows.avif" alt=""></a>
+      </div>
+      <div>
+         <a href="#"><img src="./images/esports-collection.avif" alt=""></a>
+      </div>
+   </div>
+</div>
+   
+<div class="banner">
+   <div class="banner-one">
+      <a href="#"><img src="./images/premiere-banner.avif" alt=""></a>
+   </div>
+</div>
+
+<section class="bannerOne">
+       <div class="container">
+         <div class="banner-text">
+            <h3>Premieres</h3>
+            <p>Brand new releases every Friday</p>
+         </div>
+         <div class="banner-oneimages">
+            <div>
+               <a href="#"><img src="./images/the alleys.avif" alt=""></a>
+               <h3>The Alleys</h3>
+               <p>Arabic</p>
+            </div>
+            <div>
+               <a href="#"><img src="./images/unforgotten.avif" alt=""></a>
+               <h3>unforgotten</h3>
+               <p>English</p>
+            </div>
+            <div>
+               <a href="#"><img src="./images/no hard feelings.avif" alt=""></a>
+               <h3>No Hard Feelings</h3>
+               <p>English</p>
+            </div>
+            <div>
+               <a href="#"><img src="./images/benedetta.avif" alt=""></a>
+               <h3>Benedetta</h3>
+               <p>French</p>
+            </div>
+            <div>
+               <a href="#"><img src="./images/hope street season 1.avif" alt=""></a>
+               <h3>Hope Street Season 1</h3>
+               <p>English</p>
+            </div>
+         </div>
+       </div>
+</section>
+
+      <div class="container">
+         <div class="mainbox">
+            <div class="first" id="firstt">
+               <h2>Online Streaming Events</h2>
+            </div>
+            <div class="second">
+               <div>
+                  <P>See All</P>
+               </div>
+               <div>
+                  <i class="fa fa-angle-right" aria-hidden="true"></i>
+               </div>
+            </div>
+         </div>
+         <div class="third">
+          <div class="events-images">
+            <div>
+               <a href="#"><img src="./images/Blind Dating 20+ Florican.avif" alt=""></a>
+               <h3>Blind Dating</h3>
+               <p>English</p>
+            </div>
+            <div>
+               <a href="#"><img src="./images/Careers in AI & Data Science Webinar.avif" alt=""></a>
+               <h3>Webinar</h3>
+               <p>English</p>
+            </div>
+            <div>
+               <a href="#"><img src="./images/Blind Dating 30+ - Florican.avif" alt=""></a>
+               <h3>Blind Dating 30+</h3>
+               <p>English</p>
+            </div>
+            <div>
+               <a href="#"><img src="./images/Talk Session in Business.avif" alt=""></a>
+               <h3>Talk Session in Business</h3>
+               <p>English</p>
+            </div>
+            <div>
+               <a href="#"><img src="./images/Talk Session in physiscs.avif" alt=""></a>
+               <h3>Talk Session in physiscs</h3>
+               <p>English</p>
+            </div>
+          </div>
+         </div>
+          
+      </div>
+      <div class="container">
+         <div class="mainbox">
+            <div class="first">
+               <h2>Outdoor Events</h2>
+            </div>
+            <div class="second">
+               <div>
+                  <P>See All</P>
+               </div>
+               <div>
+                  <i class="fa fa-angle-right" aria-hidden="true"></i>
+               </div>
+            </div>
+         </div>
+         <div class="third">
+          <div class="events-images">
+            <div>
+               <a href="#"><img src="./images/gaming workshop- ignite 2023.avif" alt=""></a>
+               <h3>Gaming Workshop - Ignite</h3>
+               <p>Trident Hotel - Chennai</p>
+            </div>
+            <div>
+               <a href="#"><img src="./images/Chennaiyin FC vs East Bengal FC.avif" alt=""></a>
+               <h3>Chennaiyin FC vs East Bengal FC</h3>
+               <p>Jawaharla Nehru Stadium:</p>
+               <p>Chennai</p>
+            </div>
+            <div>
+               <a href="#"><img src="./images/S.Ve.Shekher in AlWAA.avif" alt=""></a>
+               <h3>S.Ve.Shekkar in ALWAA</h3>
+               <p>Dr MGR Janaki College</p>
+               <p>Auditorium. A/c Satya studio</p>
+            </div>
+            <div>
+               <a href="#"><img src="./images/Chess - Chai - Connect.avif" alt=""></a>
+               <h3>Chess - Chai - Connect</h3>
+               <p>One Paramount: Chennai</p>
+            </div>
+            <div>
+               <a href="#"><img src="./images/Snow Kingdom Chennai.avif" alt=""></a>
+               <h3>Snow Kingdom Chennai</h3>
+               <p>VGP Universal Kingdom:</p>
+               <p>Chennai</p>
+            </div>
+          </div>
+         </div>
+          
+      </div>
+      <footer class="main-footer">
+         <div class="container">
+            <div class="footer-main">
+               <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" fill="none" viewBox="0 0 48 48"><path fill="#cbcbcb" fill-rule="evenodd" d="M22.72 6.36v6.768L8.64 21.88c-.96.72-1.34 1.96-.96 3.08a2.75 2.75 0 0 0 2.62 1.9h2.221c-.454 4.26-2.852 8.061-6.92 13.26a2.765 2.765 0 0 0 2.16 4.48H40.7c1.04 0 2.02-.62 2.48-1.56.46-.94.34-2.1-.32-2.92-4.07-5.199-6.467-9-6.921-13.26h2.22c1.2 0 2.24-.76 2.64-1.9.36-1.12-.02-2.36-1.08-3.16l-12.474-7.74 4.655-2.42a2.779 2.779 0 0 0 0-4.8l-5.04-2.88c-.86-.5-1.92-.5-2.76 0-.86.5-1.38 1.42-1.38 2.4Zm3 35.24h4.46l-4.46-6.188V41.6Zm-3 0v-6.13L18.3 41.6h4.42Zm.878-11.263c-.646.135-1.238.477-1.618 1.023L14.588 41.6H8.24c3.6-4.6 6.78-9.24 7.3-14.74h17.4c.5 5.52 3.7 10.14 7.28 14.74h-6.346L26.5 31.36c-.401-.564-1.018-.907-1.681-1.033a1.473 1.473 0 0 0-1.22.01Zm10.78-6.477h2.962l-13.12-8.12-13.1 8.12H34.378ZM25.72 6.76v4.72l4.32-2.26-4.32-2.46Z" clip-rule="evenodd"/></svg>
+              <b>List your Show</b> <p>Got a show, event, activity or a great experience? Partner with us &amp; get listed on BookMyShow</p>
+              <a href="#"><b><button>Contact Today!</button></b></a>
+            </div>
+        
+         </div>
+          
+       </footer>
+       <section class="bottom-header">
+         <div class="container">
+          <div class="bottom-flex">
+          <div class="customer-care">
+            <i class="fa fa-users" aria-hidden="true"></i>
+            <p>24/7 CUSTOMER CARE</p>
+          </div>
+          <div class="ticket-booking">
+            <i class="fa fa-ticket" aria-hidden="true"></i>
+            <p>RESEND BOOKING CONFIRMATION</p>
+          </div>
+          <div class="newspaper">
+            <i class="fa fa-newspaper-o" aria-hidden="true"></i>
+            <p>SUBSCRIBE TO THE NEWSLETTER</p>
+          </div>
+          </div>
+         </div>
+    </section>
+    <footer class="last-footer">
+      <div class="container">
+         <div class="bottom-flexx">
+            <div class="content">
+                <p>MOVIES NOW SHOWING IN CHENNAI</p>
+                <a href="#">Jigarthanda Double X </a> | <a href="#">Tiger 3</a> | <a href="#">Leo</a> | <a href="#">Ezhu Kadal Thaandi - Side B</a> | <a href="#">Japan</a> | <a href="#">Mangalavaaram</a> | <a href="#">The Marvels</a>               
+               <p>UPCOMING MOVIES IN CHENNAI
+               </p>
+               <a href="#">ICC Mens World Cup 2023: India vs Australia (Final)</a> | <a href="#">Bombay</a> | <a href="#">Manush</a> | <a href="#">Swathi Mutthina Male Haniye</a> | <a href="#"> Anari is Backk </a> | <a href="#">Noni Ke Anhoni</a> | <a href="#">Bad Manners</a> | <a href="#">Parinda Paar Geyaa</a>
+               <p>MOVIES BY GENRE
+               </p>
+               <a href="#">Drama Movies</a> | <a href="#">Action Movies</a> | <a href="#">Comedy Movies </a> | <a href="#">Thriller Movies </a> | <a href="#">Adventure Movies</a> | <a href="#">Romantic Movies</a> | <a href="#">Crime Movies</a> | <a href="#">Animation Movies</a> | <a href="#">Fantasy Movies</a> | <a href="#">Horror Movies</a> 
+               <p>MOVIES BY LANGUAGE
+               </p>
+               <a href="#">Movies in Tamil </a> | <a href="#">Movies in English</a> | <a href="#">Movies in Hindi</a> | <a href="#">Movies in Malayalam</a> | <a href="#"> Movies in Telugu</a> | <a href="#">Movies in Chattisgarhi </a> | <a href="#">Movies in Khasi</a> | <a href="#">Movies in Tulu</a> | <a href="#"> Movies in Japanese </a> 
+               
+               <p>MOVIE REVIEWS AND TRENDING ARTICLES
+               </p>
+               <a href="#">Trending Articles</a> | <a href="#">Latest News on Movies, Events, Plays and Sports</a> | <a href="#">Movie Celebrities</a> | <a href="#">Trailers</h5></a>
+               
+
+            </div>
+         </div>
+      </div>
+    </footer>
+   </body>
+
+   </html>
